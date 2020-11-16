@@ -16,3 +16,5 @@ Common Cathode 7-Segment Display x1
 Jumper wire
 
 Refer to this link for coding explaination with demonstration: (Currently editing the video. Please look for temporary video in the Project File folder)
+
+Refer to this video programming Arduino UNO using Atmel Studio: https://www.youtube.com/watch?v=UnYgnef3g4o (Credit to Cytron Technologies)
