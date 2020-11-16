@@ -1,12 +1,8 @@
-;
-; Experiment3-2.asm
-;
+
 ; Created: 10/11/2020 5:05:47 AM
-; Group 12
-; Section 2
+; In this project, we will create program to display from 9 to 0 by using 7-segment display by using AVR Assembly Languages.
 
 
-; Replace with your application code
 main:
 
 ldi r16, low(RAMEND)   ; set up the stack
