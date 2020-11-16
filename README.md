@@ -7,6 +7,8 @@ Arduino UNO x1
 
 Breadboard x1
 
+1kΩ Resistor x1
+
 CD4511 x1
 
 Common Cathode 7-Segment Display x1
